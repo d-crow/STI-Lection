@@ -1,0 +1,5 @@
+numpy==1.19.5
+pandas==1.2.3
+tensorflow==2.5.0
+tensorflowjs==3.7.0
+Scrapy==2.5.0
